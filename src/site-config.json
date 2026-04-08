@@ -1,0 +1,560 @@
+{
+  "business": {
+    "name": "Roofer Mike's Roofing & Roof Repair Omaha",
+    "phone": "+14023054481",
+    "category": "roofer",
+    "city": "Omaha",
+    "state": "NE"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-trust-navy",
+      "categoryGroup": "roofing",
+      "name": "Trust Navy",
+      "recipeFile": "roofing/trust-navy.astro",
+      "colors": {
+        "primary": "#2C4563",
+        "primaryDark": "#1B2F45",
+        "primaryLight": "#D4E0ED",
+        "secondary": "#3D5A80",
+        "accent": "#3D6B5A",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#2C4563",
+        "surface": "#F4F6F8",
+        "text": "#1A1A2E",
+        "textLight": "#4A5568",
+        "textOnDark": "#FFFFFF",
+        "border": "#E5E7EB"
+      },
+      "typography": {
+        "headingFont": "Playfair Display",
+        "headingWeight": "700",
+        "bodyFont": "Source Sans 3",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.25"
+      },
+      "shape": {
+        "borderRadius": "6px",
+        "buttonRadius": "6px",
+        "cardRadius": "10px",
+        "shadowStyle": "soft"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "dark",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/trust-navy"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Omaha's Trusted Roofing Experts",
+      "heroSubline": "Protecting your home with quality roofing and reliable repairs. Serving Omaha and surrounding communities.",
+      "aboutTitle": "Your Omaha Roofing Solution",
+      "aboutText": [
+        "Roofer Mike's Roofing & Roof Repair Omaha was founded on a simple principle: provide honest, dependable roofing services to our neighbors. We've seen firsthand the damage Nebraska weather can inflict, and we're committed to ensuring every roof we work on is built to last.",
+        "We approach every project with meticulous attention to detail and a dedication to using the highest quality materials. Our team takes pride in clear communication, transparent pricing, and exceeding expectations, no matter the size or scope of the job.",
+        "As a local Omaha business, we believe in giving back to the community that supports us. We actively participate in local initiatives and strive to be a positive influence in the neighborhoods we serve."
+      ],
+      "valueProps": [
+        {
+          "title": "Experienced Professionals",
+          "description": "Our team has years of experience handling all types of roofing challenges specific to the Omaha climate."
+        },
+        {
+          "title": "Quality Materials",
+          "description": "We only use premium roofing materials from trusted manufacturers to ensure long-lasting protection."
+        },
+        {
+          "title": "Transparent Pricing",
+          "description": "We provide detailed, upfront estimates with no hidden fees or surprises."
+        },
+        {
+          "title": "Customer Satisfaction",
+          "description": "We're committed to your complete satisfaction and stand behind our workmanship."
+        }
+      ],
+      "ctaHeadline": "Get a Free Roofing Estimate Today!",
+      "ctaSubline": "Protect your home with Omaha's most reliable roofing services. Contact us now."
+    },
+    "services": [
+      {
+        "slug": "roof-repair",
+        "name": "Roof Repair",
+        "shortDescription": "Fast, reliable roof repair services to protect your Omaha home.",
+        "description": "From minor leaks to storm damage, Roofer Mike's Roofing & Roof Repair Omaha provides comprehensive roof repair services. We understand the urgency of roof repairs, especially with Omaha's unpredictable weather patterns. Our team will quickly assess the damage, provide a clear explanation of the necessary repairs, and execute them efficiently. We handle all types of roofing materials, including asphalt shingles, tile, and metal roofing. We address issues such as missing shingles, damaged flashing, leaks around chimneys and vents, and storm-related damage. We'll ensure your roof is watertight and structurally sound, preventing further damage to your home's interior. We are equipped to handle emergency repairs after severe weather events common in the Omaha area, such as hail storms and high winds. We prioritize prompt response times and effective solutions to minimize the impact of roof damage on your property.",
+        "process": [
+          "Step 1: Thorough roof inspection to identify the source and extent of the damage.",
+          "Step 2: Clear and detailed explanation of the necessary repairs and associated costs.",
+          "Step 3: Efficient and professional execution of the repairs using quality materials.",
+          "Step 4: Final inspection to ensure the repairs are completed to our high standards and your satisfaction."
+        ],
+        "benefits": [
+          "Prevent further water damage",
+          "Extend the life of your roof",
+          "Maintain your home's value",
+          "Peace of mind knowing your roof is secure"
+        ],
+        "faq": [
+          {
+            "question": "How quickly can you respond to a roof repair request?",
+            "answer": "We understand the urgency of roof repairs, especially after storm damage. We strive to respond to repair requests within 24 hours and offer emergency services for critical situations."
+          },
+          {
+            "question": "What types of roof repairs do you handle?",
+            "answer": "We handle all types of roof repairs, including shingle replacement, leak detection and repair, flashing repair, and storm damage restoration. We have experience working with various roofing materials."
+          },
+          {
+            "question": "How much will my roof repair cost?",
+            "answer": "The cost of roof repair varies depending on the extent of the damage and the materials required. We provide free, no-obligation estimates after a thorough inspection of your roof."
+          }
+        ]
+      },
+      {
+        "slug": "roof-replacement",
+        "name": "Roof Replacement",
+        "shortDescription": "Upgrade your home with a durable, new roof from Omaha's trusted experts.",
+        "description": "When roof repairs are no longer sufficient, Roofer Mike's Roofing & Roof Repair Omaha offers complete roof replacement services. We understand that replacing a roof is a significant investment, and we're committed to making the process as smooth and stress-free as possible. Our team will guide you through every step, from choosing the right roofing materials to the final installation. We offer a wide selection of roofing options, including asphalt shingles, metal roofing, and tile, to suit your style and budget. We carefully remove your old roof, inspect the underlying structure for damage, and install a new, high-quality roofing system that will protect your home for years to come. We ensure proper ventilation and insulation to improve energy efficiency and prevent moisture buildup. We handle all necessary permits and inspections to ensure compliance with local building codes. With Omaha's extreme temperature swings, a properly installed roof is critical for energy efficiency and protection against the elements.",
+        "process": [
+          "Step 1: Thorough inspection of your existing roof and assessment of your needs.",
+          "Step 2: Consultation to discuss roofing material options, budget, and aesthetic preferences.",
+          "Step 3: Removal of the old roof and inspection of the underlying structure.",
+          "Step 4: Installation of the new roofing system with meticulous attention to detail."
+        ],
+        "benefits": [
+          "Increased home value",
+          "Improved curb appeal",
+          "Enhanced energy efficiency",
+          "Long-lasting protection from the elements"
+        ],
+        "faq": [
+          {
+            "question": "How long does a roof replacement typically take?",
+            "answer": "The duration of a roof replacement depends on the size and complexity of the roof, as well as weather conditions. Most replacements can be completed within 2-5 days."
+          },
+          {
+            "question": "What types of roofing materials do you offer?",
+            "answer": "We offer a wide variety of roofing materials, including asphalt shingles, metal roofing, tile, and more. We can help you choose the best option for your home and budget."
+          },
+          {
+            "question": "Do you handle the necessary permits and inspections?",
+            "answer": "Yes, we handle all necessary permits and inspections to ensure compliance with local building codes. We take care of all the paperwork so you don't have to worry about it."
+          }
+        ]
+      },
+      {
+        "slug": "gutter-services",
+        "name": "Gutter Installation & Repair",
+        "shortDescription": "Protect your foundation with reliable gutter services in Omaha.",
+        "description": "Roofer Mike's Roofing & Roof Repair Omaha provides comprehensive gutter services to protect your home from water damage. Gutters play a crucial role in diverting rainwater away from your foundation, preventing costly problems. We offer gutter installation, repair, and cleaning services to ensure your gutters are functioning properly. We install seamless aluminum gutters, which are durable and require minimal maintenance. We also repair existing gutters, addressing issues such as leaks, clogs, and sagging. Regular gutter cleaning is essential to prevent clogs and ensure proper water flow, especially with the large trees common in Omaha neighborhoods. We recommend cleaning your gutters at least twice a year. Our team will ensure your gutters are properly sloped and securely attached to your home, providing long-lasting protection from water damage. We can also install gutter guards to prevent leaves and debris from clogging your gutters.",
+        "process": [
+          "Step 1: Inspection of your existing gutters or assessment of your needs for new installation.",
+          "Step 2: Cleaning, repair, or installation of gutters using quality materials.",
+          "Step 3: Ensuring proper slope and secure attachment for optimal water flow.",
+          "Step 4: Optional installation of gutter guards to prevent clogs."
+        ],
+        "benefits": [
+          "Prevent foundation damage",
+          "Protect your landscaping",
+          "Prevent basement flooding",
+          "Extend the life of your roof"
+        ],
+        "faq": [
+          {
+            "question": "How often should I clean my gutters?",
+            "answer": "We recommend cleaning your gutters at least twice a year, especially in the spring and fall, to remove leaves and debris."
+          },
+          {
+            "question": "What are seamless gutters?",
+            "answer": "Seamless gutters are custom-made on-site to fit your home perfectly, eliminating seams that can leak and cause problems."
+          },
+          {
+            "question": "Do you offer gutter guards?",
+            "answer": "Yes, we offer gutter guards to prevent leaves and debris from clogging your gutters, reducing the need for frequent cleaning."
+          }
+        ]
+      },
+      {
+        "slug": "storm-damage-repair",
+        "name": "Storm Damage Repair",
+        "shortDescription": "Fast response to storm damage, restoring your roof and protecting your home.",
+        "description": "Omaha is prone to severe weather, and Roofer Mike's Roofing & Roof Repair Omaha is here to help you recover from storm damage quickly and efficiently. We offer comprehensive storm damage repair services, including roof inspections, tarping, and complete roof restoration. We work with all major insurance companies to streamline the claims process and ensure you receive the compensation you deserve. Our team will assess the damage, provide a detailed estimate, and complete the repairs promptly and professionally. We understand the urgency of storm damage repairs and prioritize these projects to minimize further damage to your home. We handle all types of storm damage, including hail damage, wind damage, and water damage. We use quality materials and proven techniques to restore your roof to its pre-storm condition. With the prevalence of hail storms in Nebraska, it's crucial to have a reliable roofer you can count on.",
+        "process": [
+          "Step 1: Emergency tarping to prevent further water damage.",
+          "Step 2: Thorough roof inspection to assess the extent of the damage.",
+          "Step 3: Detailed estimate and assistance with insurance claims.",
+          "Step 4: Complete roof restoration using quality materials."
+        ],
+        "benefits": [
+          "Prevent further water damage",
+          "Restore your home's protection",
+          "Simplify the insurance claims process",
+          "Peace of mind knowing your roof is secure"
+        ],
+        "faq": [
+          {
+            "question": "How quickly can you respond to storm damage?",
+            "answer": "We prioritize storm damage repairs and strive to respond as quickly as possible to minimize further damage to your home."
+          },
+          {
+            "question": "Do you work with insurance companies?",
+            "answer": "Yes, we work with all major insurance companies to streamline the claims process and ensure you receive the compensation you deserve."
+          },
+          {
+            "question": "What types of storm damage do you handle?",
+            "answer": "We handle all types of storm damage, including hail damage, wind damage, and water damage."
+          }
+        ]
+      },
+      {
+        "slug": "roof-inspections",
+        "name": "Roof Inspections",
+        "shortDescription": "Comprehensive roof inspections to identify potential problems early.",
+        "description": "Preventative maintenance is key to extending the life of your roof. Roofer Mike's Roofing & Roof Repair Omaha offers comprehensive roof inspections to identify potential problems early, before they become major issues. Our experienced inspectors will thoroughly examine your roof, looking for signs of damage, wear and tear, and potential leaks. We provide a detailed report with our findings and recommendations for repairs or maintenance. Regular roof inspections are especially important in Omaha, where the climate can be harsh on roofing materials. We recommend having your roof inspected at least once a year, or after any major storm. Our inspections can help you identify issues such as missing shingles, damaged flashing, and clogged gutters. We'll provide you with honest and unbiased advice, helping you make informed decisions about your roof's care. A proactive approach to roof maintenance can save you money in the long run by preventing costly repairs.",
+        "process": [
+          "Step 1: Thorough visual inspection of the roof surface.",
+          "Step 2: Inspection of flashing, vents, and other roof components.",
+          "Step 3: Assessment of the underlying structure.",
+          "Step 4: Detailed report with findings and recommendations."
+        ],
+        "benefits": [
+          "Identify potential problems early",
+          "Extend the life of your roof",
+          "Prevent costly repairs",
+          "Peace of mind knowing your roof is in good condition"
+        ],
+        "faq": [
+          {
+            "question": "How often should I have my roof inspected?",
+            "answer": "We recommend having your roof inspected at least once a year, or after any major storm."
+          },
+          {
+            "question": "What is included in a roof inspection?",
+            "answer": "Our roof inspections include a thorough visual examination of the roof surface, flashing, vents, and other components, as well as an assessment of the underlying structure."
+          },
+          {
+            "question": "How much does a roof inspection cost?",
+            "answer": "We offer affordable roof inspection services. Contact us for a free quote."
+          }
+        ]
+      },
+      {
+        "slug": "commercial-roofing",
+        "name": "Commercial Roofing",
+        "shortDescription": "Expert commercial roofing services for Omaha businesses.",
+        "description": "Roofer Mike's Roofing & Roof Repair Omaha provides comprehensive commercial roofing services for businesses throughout the Omaha area. We understand the unique challenges of commercial roofing projects, and we have the expertise and resources to handle them efficiently and effectively. We offer a wide range of commercial roofing services, including roof repair, roof replacement, and roof maintenance. We work with various commercial roofing materials, including TPO, EPDM, and metal roofing. Our team is experienced in working on large-scale projects and understands the importance of minimizing disruption to your business operations. We provide detailed project planning and communication throughout the process. We adhere to strict safety standards and ensure all work is completed to code. A well-maintained roof is essential for protecting your business assets and ensuring the safety of your employees and customers. We offer preventative maintenance programs to help you extend the life of your commercial roof.",
+        "process": [
+          "Step 1: Thorough assessment of your commercial roofing needs.",
+          "Step 2: Detailed project planning and communication.",
+          "Step 3: Efficient and professional execution of the work.",
+          "Step 4: Ongoing maintenance and support."
+        ],
+        "benefits": [
+          "Protect your business assets",
+          "Minimize disruption to your operations",
+          "Ensure the safety of your employees and customers",
+          "Extend the life of your commercial roof"
+        ],
+        "faq": [
+          {
+            "question": "What types of commercial roofing materials do you work with?",
+            "answer": "We work with a wide range of commercial roofing materials, including TPO, EPDM, and metal roofing."
+          },
+          {
+            "question": "Do you offer preventative maintenance programs for commercial roofs?",
+            "answer": "Yes, we offer preventative maintenance programs to help you extend the life of your commercial roof and prevent costly repairs."
+          },
+          {
+            "question": "How do you minimize disruption to my business operations during a commercial roofing project?",
+            "answer": "We provide detailed project planning and communication throughout the process and work efficiently to minimize disruption to your business operations."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Omaha",
+        "slug": "omaha-ne",
+        "state": "NE",
+        "content": "Roofer Mike's Roofing & Roof Repair Omaha is proud to serve the Omaha metropolitan area with top-quality roofing services. From minor repairs to complete roof replacements, we handle it all with expertise and care. We understand the unique challenges that Omaha's weather presents to roofs, from scorching summers to harsh winters, and we use only the best materials to ensure your roof can withstand the elements.\n\nOur team is dedicated to providing exceptional customer service and workmanship on every project. We're committed to helping Omaha homeowners and businesses protect their properties with reliable and durable roofing solutions. Whether you need a new roof, repairs to an existing one, or just a routine inspection, you can count on Roofer Mike's to get the job done right.",
+        "localContext": "Omaha is a vibrant city known for its strong economy, friendly people, and diverse neighborhoods. From the historic Old Market to the bustling downtown area, we are honored to serve the roofing needs of this great community.",
+        "nearbyAreas": [
+          "Council Bluffs",
+          "Bellevue",
+          "Papillion"
+        ]
+      },
+      {
+        "city": "Bellevue",
+        "slug": "bellevue-ne",
+        "state": "NE",
+        "content": "Roofer Mike's Roofing & Roof Repair Omaha extends its premier roofing services to Bellevue, Nebraska. We understand the specific needs of Bellevue residents and businesses, offering tailored solutions for roof repair, replacement, and maintenance. Our skilled team is equipped to handle any roofing project, big or small, with precision and efficiency.\n\nWe are committed to providing Bellevue with reliable and long-lasting roofing solutions that protect your investment. We strive to deliver superior customer service, keeping you informed throughout the entire process. Trust Roofer Mike's to be your go-to roofing expert in Bellevue.",
+        "localContext": "Bellevue, Nebraska, is a thriving community with a rich history and a strong sense of community. As a neighbor, we are dedicated to providing the best roofing services to the residents of Bellevue.",
+        "nearbyAreas": [
+          "Omaha",
+          "Papillion",
+          "La Vista"
+        ]
+      },
+      {
+        "city": "Council Bluffs",
+        "slug": "council-bluffs-ne",
+        "state": "NE",
+        "content": "Just across the river, Roofer Mike's Roofing & Roof Repair Omaha is happy to serve Council Bluffs, Iowa. We provide comprehensive roofing services to homeowners and businesses in this city, ensuring the safety and integrity of their properties. Our team is experienced in dealing with various roofing systems and materials, allowing us to deliver customized solutions to meet your specific needs.\n\nWe are committed to providing Council Bluffs with exceptional roofing services that exceed expectations. Whether you need a quick repair or a complete roof replacement, you can rely on Roofer Mike's to deliver quality workmanship and outstanding customer service.",
+        "localContext": "Council Bluffs is a historic city with a unique character and a strong connection to its past. We are proud to serve the roofing needs of this community, offering reliable solutions to protect your homes and businesses.",
+        "nearbyAreas": [
+          "Omaha",
+          "Carter Lake",
+          "La Vista"
+        ]
+      },
+      {
+        "city": "Papillion",
+        "slug": "papillion-ne",
+        "state": "NE",
+        "content": "Roofer Mike's Roofing & Roof Repair Omaha is proud to offer our expert roofing services to the growing community of Papillion, Nebraska. We understand the importance of a reliable roof in protecting your home or business, and we are committed to providing top-quality workmanship and materials.\n\nFrom roof repairs to complete replacements, we handle all types of roofing projects with professionalism and attention to detail. We work closely with our customers to ensure their needs are met and their expectations are exceeded. Choose Roofer Mike's for all your roofing needs in Papillion.",
+        "localContext": "Papillion is a family-friendly city known for its excellent schools and vibrant community. We are dedicated to providing Papillion residents with the best roofing services available.",
+        "nearbyAreas": [
+          "Omaha",
+          "Bellevue",
+          "La Vista"
+        ]
+      },
+      {
+        "city": "La Vista",
+        "slug": "la-vista-ne",
+        "state": "NE",
+        "content": "Roofer Mike's Roofing & Roof Repair Omaha is dedicated to serving the residents and businesses of La Vista, Nebraska. We offer a full range of roofing services, including repair, replacements, and inspections. Our experienced team is equipped to handle any roofing challenge, ensuring the safety and longevity of your roof.\n\nWe are committed to providing La Vista with reliable and affordable roofing solutions. We use only the highest quality materials and employ skilled technicians to deliver exceptional results. Trust Roofer Mike's to be your trusted roofing partner in La Vista.",
+        "localContext": "La Vista is a growing city with a strong sense of community and a thriving business environment. We are proud to offer our roofing services to the residents and businesses of La Vista.",
+        "nearbyAreas": [
+          "Omaha",
+          "Papillion",
+          "Ralston"
+        ]
+      },
+      {
+        "city": "Ralston",
+        "slug": "ralston-ne",
+        "state": "NE",
+        "content": "Roofer Mike's Roofing & Roof Repair Omaha extends its professional roofing services to Ralston, Nebraska. We understand the unique needs of Ralston homeowners and businesses, and we offer customized solutions to meet those needs. Our team is dedicated to providing quality workmanship and exceptional customer service.\n\nWe are committed to protecting Ralston properties with durable and reliable roofing systems. Whether you need a minor repair or a complete roof replacement, you can count on Roofer Mike's to deliver outstanding results. We take pride in serving the Ralston community.",
+        "localContext": "Ralston is a close-knit community with a strong sense of pride and a rich history. We are honored to serve the roofing needs of the residents of Ralston.",
+        "nearbyAreas": [
+          "Omaha",
+          "La Vista",
+          "Boys Town"
+        ]
+      },
+      {
+        "city": "Gretna",
+        "slug": "gretna-ne",
+        "state": "NE",
+        "content": "Roofer Mike's Roofing & Roof Repair Omaha is pleased to provide roofing services to Gretna, Nebraska. We offer comprehensive roofing solutions, including repairs, replacements, and maintenance. Our experienced team is equipped to handle any roofing project, ensuring the safety and integrity of your property.\n\nWe are committed to providing Gretna with reliable and affordable roofing services. We use only the highest quality materials and employ skilled technicians to deliver exceptional results. Trust Roofer Mike's to be your trusted roofing partner in Gretna.",
+        "localContext": "Gretna is a rapidly growing community known for its excellent schools and family-friendly atmosphere. We are proud to offer our roofing services to the residents of Gretna.",
+        "nearbyAreas": [
+          "Elkhorn",
+          "Omaha",
+          "Waterloo"
+        ]
+      },
+      {
+        "city": "Elkhorn",
+        "slug": "elkhorn-ne",
+        "state": "NE",
+        "content": "Roofer Mike's Roofing & Roof Repair Omaha provides expert roofing services to Elkhorn, Nebraska. We understand the specific needs of Elkhorn residents, offering tailored solutions for roof repair, replacement, and maintenance. Our skilled team is equipped to handle any roofing project with precision and efficiency.\n\nWe are committed to providing Elkhorn with reliable and long-lasting roofing solutions that protect your investment. We strive to deliver superior customer service, keeping you informed throughout the entire process. Trust Roofer Mike's to be your go-to roofing expert in Elkhorn.",
+        "localContext": "Elkhorn is a vibrant and growing community with a strong sense of identity. We are dedicated to providing the best roofing services to the residents of Elkhorn.",
+        "nearbyAreas": [
+          "Omaha",
+          "Gretna",
+          "Bennington"
+        ]
+      },
+      {
+        "city": "Bennington",
+        "slug": "bennington-ne",
+        "state": "NE",
+        "content": "Roofer Mike's Roofing & Roof Repair Omaha proudly serves Bennington, Nebraska, offering a comprehensive range of roofing services to protect your home or business. We understand the importance of a durable and reliable roof, and we are committed to providing top-quality workmanship and materials.\n\nFrom minor repairs to complete roof replacements, our experienced team handles all types of roofing projects with professionalism and attention to detail. We work closely with our customers to ensure their needs are met and their expectations are exceeded. Choose Roofer Mike's for all your roofing needs in Bennington.",
+        "localContext": "Bennington is a charming and growing community with a strong sense of community spirit. We are proud to offer our roofing services to the residents and businesses of Bennington.",
+        "nearbyAreas": [
+          "Elkhorn",
+          "Omaha",
+          "Valley"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "service": "Roof Repair",
+        "text": "Mike and his team were fantastic! We had a leak in our roof after a big storm, and they came out quickly to assess the damage and provide a reasonable quote. The repair was done efficiently and professionally. Highly recommend!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "John B.",
+        "rating": 4,
+        "service": "Gutter Cleaning",
+        "text": "Roofer Mike's team did a great job cleaning out our gutters. They were completely clogged with leaves and debris. They were prompt, courteous, and the price was fair. Would use them again.",
+        "date": "2025-04-22"
+      },
+      {
+        "name": "Emily K.",
+        "rating": 5,
+        "service": "Roof Replacement",
+        "text": "We needed a full roof replacement, and Roofer Mike's Roofing & Roof Repair Omaha made the process so easy. They helped us choose the right shingles for our home and budget, and the installation was flawless. The team was professional and cleaned up everything afterwards. Our new roof looks amazing!",
+        "date": "2025-05-10"
+      },
+      {
+        "name": "David L.",
+        "rating": 5,
+        "service": "Storm Damage Repair",
+        "text": "After a hailstorm, our roof was a mess. Roofer Mike's team came out quickly, assessed the damage, and worked directly with our insurance company. They made the whole process stress-free and restored our roof to its original condition. Excellent service!",
+        "date": "2025-06-01"
+      },
+      {
+        "name": "Jessica P.",
+        "rating": 4,
+        "service": "Roof Inspection",
+        "text": "We had Roofer Mike's perform a roof inspection before buying a new house in Dundee. They provided a thorough report that helped us negotiate a better price. Very helpful and informative!",
+        "date": "2025-07-18"
+      },
+      {
+        "name": "Robert S.",
+        "rating": 5,
+        "service": "Commercial Roofing",
+        "text": "Roofer Mike's team did an excellent job repairing our commercial roof. They were professional, efficient, and minimized disruption to our business operations. Highly recommended for commercial roofing needs!",
+        "date": "2025-08-05"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Omaha Roofing | Roofer Mike's",
+        "description": "Trusted Omaha roofing contractor for repairs, replacement, & storm damage. Free estimates. Serving Omaha & surrounding areas."
+      },
+      "about": {
+        "title": "About Roofer Mike's Omaha",
+        "description": "Learn about Roofer Mike's Roofing & Roof Repair Omaha, our commitment to quality, and our experience serving Omaha."
+      },
+      "services": {
+        "title": "Omaha Roofing Services",
+        "description": "Comprehensive roofing services in Omaha, NE: repairs, replacement, gutters, inspections, storm damage. Contact us for a free quote!"
+      },
+      "contact": {
+        "title": "Contact Roofer Mike's Omaha",
+        "description": "Contact Roofer Mike's Roofing & Roof Repair Omaha for roofing services in Omaha. Get a free estimate today!"
+      },
+      "reviews": {
+        "title": "Roofer Mike's Omaha Reviews",
+        "description": "Read reviews for Roofer Mike's Roofing & Roof Repair Omaha. See what our customers say about our roofing services."
+      },
+      "service-areas": {
+        "title": "Service Areas",
+        "description": "Roofer Mike's Roofing & Roof Repair Omaha service areas."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "roof-repair": "/images/service-roof-repair.webp",
+      "roof-replacement": "/images/service-roof-replacement.webp",
+      "gutter-services": "/images/service-gutter-services.webp",
+      "storm-damage-repair": "/images/service-storm-damage-repair.webp",
+      "roof-inspections": "/images/service-roof-inspections.webp",
+      "commercial-roofing": "/images/service-commercial-roofing.webp"
+    },
+    "servicesResponsive": {
+      "roof-repair": {
+        "src": "/images/service-roof-repair.webp",
+        "srcset": "/images/service-roof-repair-400w.webp 400w, /images/service-roof-repair-800w.webp 800w, /images/service-roof-repair-1200w.webp 1200w, /images/service-roof-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "roof-replacement": {
+        "src": "/images/service-roof-replacement.webp",
+        "srcset": "/images/service-roof-replacement-400w.webp 400w, /images/service-roof-replacement-800w.webp 800w, /images/service-roof-replacement-1200w.webp 1200w, /images/service-roof-replacement.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "gutter-services": {
+        "src": "/images/service-gutter-services.webp",
+        "srcset": "/images/service-gutter-services-400w.webp 400w, /images/service-gutter-services-800w.webp 800w, /images/service-gutter-services-1200w.webp 1200w, /images/service-gutter-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "storm-damage-repair": {
+        "src": "/images/service-storm-damage-repair.webp",
+        "srcset": "/images/service-storm-damage-repair-400w.webp 400w, /images/service-storm-damage-repair-800w.webp 800w, /images/service-storm-damage-repair-1200w.webp 1200w, /images/service-storm-damage-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "roof-inspections": {
+        "src": "/images/service-roof-inspections.webp",
+        "srcset": "/images/service-roof-inspections-400w.webp 400w, /images/service-roof-inspections-800w.webp 800w, /images/service-roof-inspections-1200w.webp 1200w, /images/service-roof-inspections.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "commercial-roofing": {
+        "src": "/images/service-commercial-roofing.webp",
+        "srcset": "/images/service-commercial-roofing-400w.webp 400w, /images/service-commercial-roofing-800w.webp 800w, /images/service-commercial-roofing-1200w.webp 1200w, /images/service-commercial-roofing.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
